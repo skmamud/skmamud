@@ -26,8 +26,8 @@
 
 <div align="left">
 
+```js
 
-/**
  * Represents me.
  * @constructor
  * @param {string} city - Paris, France.
@@ -43,7 +43,7 @@
 
  * @throws {Punch} To any and all bugs.
  * @returns {Object} Austinae.
- */
+
 ```
 
 </div>
