@@ -28,22 +28,20 @@
 
 ```js
 
--  I’m looking to collaborate on #ML Projcts
+
  * Represents me.
  * @constructor
- * @param {string} city - Paris, France.
- * @param {string} languagues - English, French.
- * @param {string} jobTitle - machine learning intern
- * @param {string} specialization - Building quantum algorithms
- * @param {string} interests - AI, images
- * @param {string} hobbies - Climbing, reading, triathlons & playing music.
- * @param {string} education - BTech CompSci, Upes
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to reach out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
+-  city - Paris, France.
+-  languages - English, French.
+-  job title - machine learning intern
+-  specialization - Building quantum algorithms
+-  interests - AI, images
+-  hobbies - Climbing, reading, triathlons & playing music.
+-  education - BTech CompSci, Upes
+-  approachable - Yes, to collaborate on exciting projects, don't hesitate to reach out.
+-  strength - Resolute.
+-  weakness - Shyness.
 
- * @throws {Punch} To any and all bugs.
- * @returns {Object} Austinae.
 
 ```
 
