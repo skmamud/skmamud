@@ -26,7 +26,7 @@
 
 <div align="left">
 
-```js
+
 /**
  * Represents me.
  * @constructor
