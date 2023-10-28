@@ -1,4 +1,4 @@
-<p align="right"> <img src="" alt="Profile count" /> </p>
+[![An image of @solocoder13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/solocoder13)](https://holopin.io/@solocoder13)
 
 <div align="center">
 
