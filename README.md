@@ -29,13 +29,15 @@
 ```js
 
 
--  city - Paris, France.
--  languages - English, French.
+-  Current city - Dehradun, Uttarakhand.
+-  Home Town - Bardhaman, West Bengal.
+-  languages - English (Professional)
+             - Bengali (Native)
 -  job title - machine learning intern
 -  specialization - Building quantum algorithms
--  interests - AI, images
--  hobbies - Climbing, reading, triathlons & playing music.
--  education - BTech CompSci, Upes
+-  interests - AI, Hacking
+-  hobbies - Poetry, reading, Listening to music.
+-  education - BTech CSE, University of Petroleum And Energy Studies
 -  approachable - Yes, to collaborate on exciting projects, don't hesitate to reach out.
 -  strength - Resolute.
 -  weakness - Shyness.
