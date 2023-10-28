@@ -206,5 +206,4 @@ If you have any questions about web development, writing mistake-free documentat
 </div>
 
 -----
-Credits: [Austinae](https://github.com/Austinae)
-Last Edited on: 23/12/2022
+
