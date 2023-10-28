@@ -28,6 +28,7 @@
 
 ```js
 
+-  I’m looking to collaborate on **ML Projcts**
  * Represents me.
  * @constructor
  * @param {string} city - Paris, France.
