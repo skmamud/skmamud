@@ -29,8 +29,6 @@
 ```js
 
 
- * Represents me.
- * @constructor
 -  city - Paris, France.
 -  languages - English, French.
 -  job title - machine learning intern
